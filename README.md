@@ -6,3 +6,5 @@ once - Runs the code once and stops after finishing deleting all the files from 
 repeat - Script keeps awake waiting for files in the selected folder to delete
 
 Files are completely deleted when running this code so make sure you don't need what you are going to delete because you won't be able to recover it
+
+THERE IS NO CONFIGURATION REQUIRED, AS YOU RUN THE SCRIPT, IT WILL GUIDE YOU BEFORE IT STARTS DELETING THEY WAY YOU WANTED
